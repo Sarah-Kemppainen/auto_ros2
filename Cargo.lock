@@ -1826,3 +1826,7 @@ dependencies = [
  "quote",
  "syn",
 ]
+
+[[patch.unused]]
+name = "custom_interfaces_shim"
+version = "0.1.0"
